@@ -1,0 +1,14 @@
+Test Case ID,Description,Steps,Expected Result,Actual Result  ,Status,Remarks
+TC001,Validate Product Listing,Open Product Listing Page > Verify that products are displayed correctly,Products displayed correctly from Sanity CMS,Products displayed correctly,Passed,No issues found
+TC002,Validate Product Details Page,Verify product details are fetched from Sanity,Product details are displayed correctly,Product details fetched correctly from Sanity CMS,Passed,Works as expected
+,,And display,,,,
+TC003,Test Cart Functionality,Add an item to the cart > Verify the cart is updated correctly,Cart updates with the correct product and details,Cart updated correctly with the added item,Passed,Cart functionality working fine
+TC004,Test Checkout Process,Verify that checkout form loads correctly,Checkout page loads with correct product information and form,Checkout page loads with correct product info,Passed,No issues found
+TC005,Test Search Functionality,Verify relevant products are displayed according search,Relevant products appear in search results,Relevant products displayed,Passed,Search functionality working fine
+TC006,Test Order Placement,Verify order confirmation,Order confirmation page displayed with details,Order confirmation page displayed correctly with details,Passed,
+,,,,,,
+,,,,,,Order
+,,,,,,placement 
+,,,,,,work as
+,,,,,,expected
+TC007,Test Responsiveness,Resize browser window > Verify layout adjusts properly,Layout adjusts to different screen sizes (mobile/tablet/desktop),Layout adjusts properly on all devices,Passed,Responsive design verified
